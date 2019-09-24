@@ -49,6 +49,8 @@ table {
 
 /*My Style*/
 
+/*Header*/
+
 .container {
 	display: flex;
 	/*height: 400px;*/
@@ -72,8 +74,6 @@ table {
 	font-weight: bold;
 	padding: 5px;
 }
-
-
 
 .container1 {
 	display:flex;
@@ -115,6 +115,8 @@ table {
   .btn {
   	margin: 20px 0 60px 0;
   }
+
+
 
   /*Section-1*/
 
@@ -171,6 +173,8 @@ table {
 .pic1 {
 	margin-bottom: 30px;
 }
+
+
 
 /*section-2*/
 
@@ -267,6 +271,7 @@ table {
 
 a {
 padding-right: 10px;
+color: green;
  
 }
 
@@ -275,8 +280,4 @@ padding-right: 10px;
 .foot {
 	text-align: center;
 	padding: 40px;
-}
-
-a {
-	color: green;
 }
