@@ -52,7 +52,7 @@ table {
 .container {
 	display: flex;
 	/*height: 400px;*/
-	background:#5F4777;
+	background:#7A427B;
 	justify-content: space-between;
 	padding:20px 60px;
 }
@@ -77,7 +77,7 @@ table {
 
 .container1 {
 	display:flex;
-	background:#5F4777;
+	background:#7A427B;
 	padding:20px 60px; 	
 }
 
@@ -275,4 +275,8 @@ padding-right: 10px;
 .foot {
 	text-align: center;
 	padding: 40px;
+}
+
+a {
+	color: green;
 }
