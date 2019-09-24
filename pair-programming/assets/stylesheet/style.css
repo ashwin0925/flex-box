@@ -124,12 +124,16 @@ table {
 	padding:50px 60px 0px 60px;
 }
 
+.line {
+	border-right: 2px solid grey;
+}
+
 .head2 {
 	color:black;
 	font-size: 25px;
 	font-weight:700;
 	line-height: 1.5;
-	border-right: 2px solid grey;
+	/*border-right: 2px solid grey;*/
 	/*width: 51%*/
 }
 
@@ -138,7 +142,7 @@ table {
   	color: black;
   	line-height: 1.5;
   	font-size: 18px;
-  	border-right: 2px solid grey;
+  	/*border-right: 2px solid grey;*/
   	/*width: 51%*/
   }
 
