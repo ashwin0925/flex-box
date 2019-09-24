@@ -183,7 +183,7 @@ table {
 
 .item3{
 	margin-top: 100px;
-	padding: 50px;
+	padding-left: 50px;
 }
 
 .head3 {
@@ -206,8 +206,10 @@ table {
 	border: 1px solid black ;
 	border-radius: 20px;
 	padding: 10px;
-	margin-bottom: 40px;
+	margin-bottom: 90px;
   }
+
+
   /*section 3*/
 
 .btn1 {
@@ -243,6 +245,7 @@ table {
   	border: 1px solid ;
   	margin: 20px 0;
   	margin-right: 20px;
+  	padding: 5px;
   }
 
   .box2 {
@@ -251,6 +254,7 @@ table {
   	border: 1px solid ;
   	margin-top: 20px;
   	margin-bottom: 20px;
+  	padding: 5px;
   }
 
   .box3 {
@@ -258,7 +262,15 @@ table {
   	height: 200px;
   	border:1px solid;
   	margin-bottom: 20px;
+  	padding: 5px;
   }
+
+a {
+padding-right: 10px;
+ 
+}
+
+ /*Footer*/
 
 .foot {
 	text-align: center;
