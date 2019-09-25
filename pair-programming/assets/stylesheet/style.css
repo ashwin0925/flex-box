@@ -179,7 +179,7 @@ table {
 /*section-2*/
 
 .container3 {
-	display:inline-flex;
+	display:flex;
 	background: white;
 	padding:50px 60px 0px 60px;
 
